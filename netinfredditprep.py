@@ -34,7 +34,6 @@ def StarndardizeTime(time):
         hour = time[0]
         minute = time[1]
         second = time[2]
-
 def SortViaTime(time1,time2):
     return false
 def SortDate(date1, date2):
@@ -69,7 +68,7 @@ def LoadFile(filename):
             if len(line) >= 13:
                 counter+=1
                 posts.append(Post(line[0], line[1], line[2], line[5], line[7], line[12]))
-    print(counter)
+    print("Posts: " + str(counter))
     return posts
 def CreateCascades(posts):
     cascades = {}
@@ -80,7 +79,7 @@ def CreateCascades(posts):
             t = cascades[i.image_id]
         t.append(i) 
         cascades[i.image_id] = t
-    print(len(cascades))
+    print("Cascades: " + str(len(cascades)))
     return cascades
 def StarndardizeTime(time):
     if '+' in time:
@@ -197,13 +196,9 @@ def PrintCascades(cascades, filename):
             for i in chain:
                 s += str(username_to_id[i.username.rstrip('\n')]) + "," + str(i.unixtime) + ";"
             f.write(s[:-1] + "\n")
-    print(total/count)
-def Main():
+    print("Average: " + str(total/count))
+if __name__ == '__main__':
     posts = LoadFile('reddit.csv')
     cascades = CreateCascades(posts)
-    #PrintCascades(cascades, 'cascades.txt')
-    print("\n")
     sorted_cascades = SortCascades(cascades)
     PrintCascades(sorted_cascades, 'cascades.txt')
-if __name__ == '__main__':
-    Main()
