@@ -186,7 +186,8 @@ def PrintCascades(cascades, filename):
     count = 0 
     with open(filename, 'w') as f:
         for key in username_to_id:
-            f.write(str(username_to_id[key]) + "," + key + "\n")
+            f.write(str(username_to_id[key]) + "," + str(username_to_id[key])+ "\n")
+            #f.write(str(username_to_id[key]) + "," + key + "\n")
         f.write("\n")
         for key in cascades:
             chain = cascades[key]
