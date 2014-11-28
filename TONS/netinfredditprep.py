@@ -79,7 +79,6 @@ def CreateCascades(posts):
             t = cascades[i.image_id]
         t.append(i) 
         cascades[i.image_id] = t
-    print("Cascades: " + str(len(cascades)))
     return cascades
 def StarndardizeTime(time):
     if '+' in time:
@@ -177,20 +176,26 @@ def SortCascades(cascades):
 def PrintCascades(cascades, filename):
     count = 0 
     total = 0
+    newcascades = {}
     username_to_id = {}
     for key in cascades:
         chain = cascades[key]
+        if len(chain) > 4:
+            newcascades[key] = chain
+    for key in newcascades:
+        chain = newcascades[key]
         for i in chain:
             username_to_id[i.username.rstrip('\n')] = count
             count += 1
     count = 0 
+    print("Cascades: " + str(len(newcascades)))
     with open(filename, 'w') as f:
         for key in username_to_id:
             f.write(str(username_to_id[key]) + "," + str(username_to_id[key])+ "\n")
             #f.write(str(username_to_id[key]) + "," + key + "\n")
         f.write("\n")
-        for key in cascades:
-            chain = cascades[key]
+        for key in newcascades:
+            chain = newcascades[key]
             s = ""
             total += len(chain)
             count +=1
