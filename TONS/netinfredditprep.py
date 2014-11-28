@@ -200,7 +200,7 @@ def PrintCascades(cascades, filename):
             total += len(chain)
             count +=1
             for i in chain:
-                s += str(username_to_id[i.username.rstrip('\n')]) + "," + str(i.unixtime) + ","
+                s = str(username_to_id[i.username.rstrip('\n')]) + "," + str(i.unixtime) + ";" + s
             f.write(s[:-1] + "\n")
     print("Average: " + str(total/count))
 if __name__ == '__main__':
