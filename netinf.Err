@@ -1,0 +1,70 @@
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 16:59:52 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./snap/../glib/ds.h, line 410
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 16:59:52 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 17:05:11 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./snap/../glib/ds.h, line 410
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 17:05:11 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 17:05:19 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./snap/../glib/ds.h, line 410
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Fri Nov 28 17:05:19 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 00:30:21 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 00:30:21 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 00:34:07 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:16 Type:4TVecI4TStrE'], file ./snap/../glib/ds.h, line 410
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 00:34:07 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 01:55:26 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./snap/../glib/ds.h, line 410
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 01:55:26 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 03:17:38 2014
+Execution stopped: IsInt(false, 0, 0, Val) [Reason:'100a'], file ./snap/../glib/dt.h, line 550
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Sat Nov 29 03:17:38 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
