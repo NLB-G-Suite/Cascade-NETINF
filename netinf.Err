@@ -68,3 +68,123 @@ Execution stopped: IsInt(false, 0, 0, Val) [Reason:'100a'], file ./snap/../glib/
 Sat Nov 29 03:17:38 2014
 Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
 --------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:30 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:30 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:31 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:31 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:33 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:24:33 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:38 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:38 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:40 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:40 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:41 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:25:41 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:10 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:10 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:10 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:10 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:11 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 21:55:11 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:34 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:34 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:35 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:35 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:35 2014
+Execution stopped: IsFlt(false, 0, 0, Val), file ./snap/../glib/dt.h, line 601
+--------
+--------
+/home/cloud/Cascade-NETINF/netinf.Err
+Wed Dec  3 22:26:35 2014
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 346
+--------
