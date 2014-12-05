@@ -1,0 +1,20 @@
+
+NETINF. build: 16:58:33, Nov 28 2014. Time: 11:38:23 [Nov 28 2014]
+===================================================================
+Input cascades (one file) (-i:)=Scripts&Stuff/Cascades/12cascades.txt
+Input ground-truth network (one file) (-n:)=example-network.txt
+Output file name(s) prefix (-o:)=TestReddit/12-1000
+Number of iterations (-e:)=1000
+Alpha for transmission model (-a:)=1
+0:exponential, 1:power law, 2:rayleigh (-m:)=0
+How much additional files to create?
+    1:info about each edge, 2:objective function value (+upper bound), 3:Precision-recall plot, 4:all-additional-files (default:1)
+ (-s:)=1
+
+Loading input cascades: Scripts&Stuff/Cascades/12cascades.txt
+All nodes read!
+All cascades read!
+cascades:2372 nodes:28999 potential edges:532169
+Running NETINF...
+
+run time: 23m00s (12:01:24)
