@@ -190,7 +190,6 @@ def PrintCascades(cascades, filename):
                 username_to_id[i.username.rstrip('\n')] = count
                 count += 1
         count = 0 
-        print("Cascades: " + str(len(newcascades)))
         with open(str(j)+filename, 'w') as f:
             for key in username_to_id:
                 f.write(str(username_to_id[key]) + "," + str(username_to_id[key])+ "\n")
@@ -203,6 +202,7 @@ def PrintCascades(cascades, filename):
                 for i in chain:
                     s = str(username_to_id[i.username.rstrip('\n')]) + "," + str(i.unixtime) + "," + s
                 f.write(s[:-1] + "\n")
+        print(str(total/count))
 if __name__ == '__main__':
     posts = LoadFile('reddit.csv')
     cascades = CreateCascades(posts)
