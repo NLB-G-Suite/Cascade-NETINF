@@ -176,8 +176,8 @@ def SortCascades(cascades):
     return newcascades
 def PrintCascades(cascades, filename):
     for j in range(0,20):
-        count = float(0) 
-        total = float(0)
+        count = 0 
+        total = 0
         newcascades = {}
         username_to_id = {}
         for key in cascades:
